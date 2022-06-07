@@ -1,4 +1,4 @@
-# Jekyll Sample for Deploy Now
+# Jekyll Sample
 
 This is a basic Jekyll website. You can use it as a starting point for your project or to give [Deploy Now](https://www.ionos.com/hosting/deploy-now) a try.
 
